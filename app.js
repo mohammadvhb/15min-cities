@@ -1,5 +1,5 @@
 
-mapboxgl.accessToken = 'pk.eyJ1IjoibW9oYW1tYWR2aGIiLCJhIjoiY2ttMzhpeXY3MjNvOTJ4bHlteGVnMWRlZCJ9.8gStJSmxLOlU7E3NCXQUxA';
+mapboxgl.accessToken = 'pk.eyJ1IjoibW9oYW1tYWR2aGIiLCJhIjoiY2x6c2U3amxvMjZmZDJrc2ludnY0czllNCJ9.l-iNpv4UrP0kxbfg0ZqOMg';
 mapboxgl.setRTLTextPlugin(
 'https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-rtl-text/v0.2.3/mapbox-gl-rtl-text.js',
 null,
